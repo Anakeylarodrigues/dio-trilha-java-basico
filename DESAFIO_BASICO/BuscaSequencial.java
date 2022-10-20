@@ -1,3 +1,6 @@
+/*Neste desafio, dada uma estrutura de vetor A [a1, a2...an], percorra todo o vetor fazendo as comparações de A[N] = X. Caso a condição 
+seja verdadeira, “X” existe na estrutura e a busca será concluída com sucesso.  */
+
 package DESAFIO_BASICO;
 
 import java.util.Scanner;
